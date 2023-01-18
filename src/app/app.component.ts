@@ -1,5 +1,5 @@
 /*
-  File: app.component.html
+  File: app.component.ts
   Author: Korcsmaros Kende Andras
   Copyright: 2023, Korcsmaros Kende Andras
   Group: Szoft II/N
